@@ -26,8 +26,9 @@ from http.server import HTTPServer,BaseHTTPRequestHandler
 content = """
 
 <html>
+
     
-<title>Top Software Industrie</title>
+<title> Top Software Industries </title>
 
 <body>
     
